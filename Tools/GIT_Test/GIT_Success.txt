@@ -38,6 +38,7 @@ Takanobu Minoshima
 Yuki Miyama
 Masahiro Saegusa
 Fumikatsu Murozaki
+S Gunasekaran
 Yuta Yoshinuma
 Yasuyuki Suzuki
 Koji Hosaka
